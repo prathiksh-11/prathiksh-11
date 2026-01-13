@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Prathiksha AP 👋
 
-<!--
-**prathiksh-11/prathiksh-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with experience in **Flutter, Laravel, and Node.js**.
+I build scalable applications, REST APIs, and modern web & mobile solutions.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Frontend:** Flutter, React, Ant Design
+- **Backend:** Laravel, Node.js
+- **Database:** MySQL, PostgreSQL
+- **Auth:** Firebase OTP, JWT
+- **Tools:** Git, Docker, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I Work On
+- Multi-tenant ecommerce platforms
+- GST billing & invoicing systems
+- Mobile apps with Flutter
+- RESTful APIs & backend services
+
+## 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/prathiksh-ap-524475272/
+
+## 📫 Contact
+- Open to collaboration and freelance work
