@@ -1,23 +1,79 @@
-# Hi, I'm Prathiksha AP 👋
+Hi, I’m Prathiksha AP 👋
 
-Full-stack developer with experience in **Flutter, Laravel, and Node.js**.
-I build scalable applications, REST APIs, and modern web & mobile solutions.
+🚀 Full-Stack Developer | Mobile & Web
 
-## 🚀 Tech Stack
-- **Frontend:** Flutter, React, Ant Design
-- **Backend:** Laravel, Node.js
-- **Database:** MySQL, PostgreSQL
-- **Auth:** Firebase OTP, JWT
-- **Tools:** Git, Docker, Postman
+I’m a results-driven Full-Stack Developer specializing in Flutter (Android & iOS) and modern Web Technologies. I build scalable, high-performance mobile apps and web platforms with clean UI, solid architecture, and production-ready backend systems.
 
-## 📌 What I Work On
-- Multi-tenant ecommerce platforms
-- GST billing & invoicing systems
-- Mobile apps with Flutter
-- RESTful APIs & backend services
+💼 What I Do
 
-## 🔗 Links
-- LinkedIn: https://www.linkedin.com/in/prathiksh-ap-524475272/
+📱 Build cross-platform mobile apps using Flutter (Android & iOS)
 
-## 📫 Contact
-- Open to collaboration and freelance work
+🌐 Develop modern web applications with Next.js & React
+
+⚙️ Design and maintain scalable backend systems using Laravel & Node.js
+
+🔐 Implement secure authentication (Firebase OTP, JWT)
+
+🧾 Create GST billing, invoicing, and multi-tenant business platforms
+
+🚀 Tech Stack
+📱 Mobile
+
+Flutter (Android & iOS)
+
+🌐 Frontend
+
+Next.js
+
+React
+
+Ant Design
+
+Tailwind CSS
+
+⚙️ Backend
+
+Laravel
+
+Node.js
+
+REST APIs
+
+🗄️ Database
+
+MySQL
+
+PostgreSQL
+
+🔐 Auth & Integrations
+
+Firebase OTP
+
+JWT Authentication
+
+🛠️ Tools & DevOps
+
+Git & GitHub
+
+Docker
+
+Postman
+
+CI/CD Pipelines
+
+📌 What I’ve Worked On
+
+🛒 Multi-tenant ecommerce platforms
+
+🧾 GST billing & invoicing systems
+
+📱 Production-ready Flutter apps
+
+🌐 Admin dashboards & business portals
+
+🔄 API integrations & system automation
+
+🔗 Connect With Me
+
+LinkedIn:
+👉 https://www.linkedin.com/in/prathiksh-ap-524475272/
