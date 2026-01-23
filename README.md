@@ -1,79 +1,29 @@
-Hi, I’m Prathiksha AP 👋
+Full-stack developer with 2+ years of experience in building mobile and web applications. Strong experience in Flutter development for Android and iOS, along with web development using React and Next.js. Skilled in backend development using Laravel and Node.js, with hands-on experience in building REST APIs, authentication, and database integration.
 
-🚀 Full-Stack Developer | Mobile & Web
+Worked on GST billing, invoicing systems, and multi-tenant ecommerce platforms. Comfortable with end-to-end development, from UI implementation to backend logic and database management. Familiar with Agile development practices and enterprise-level application requirements.
 
-I’m a results-driven Full-Stack Developer specializing in Flutter (Android & iOS) and modern Web Technologies. I build scalable, high-performance mobile apps and web platforms with clean UI, solid architecture, and production-ready backend systems.
+Technical Skills
 
-💼 What I Do
+Mobile: Flutter (Android, iOS)
 
-📱 Build cross-platform mobile apps using Flutter (Android & iOS)
+Frontend: React, Next.js, Ant Design
 
-🌐 Develop modern web applications with Next.js & React
+Backend: Laravel, Node.js
 
-⚙️ Design and maintain scalable backend systems using Laravel & Node.js
+Databases: MySQL, PostgreSQL
 
-🔐 Implement secure authentication (Firebase OTP, JWT)
+Authentication: Firebase OTP, JWT
 
-🧾 Create GST billing, invoicing, and multi-tenant business platforms
+Tools: Git, Docker, Postman
 
-🚀 Tech Stack
-📱 Mobile
+Experience Focus
 
-Flutter (Android & iOS)
+Mobile app development using Flutter
 
-🌐 Frontend
+Web application development using React / Next.js
 
-Next.js
+Backend API development with Laravel & Node.js
 
-React
+GST billing and invoicing modules
 
-Ant Design
-
-Tailwind CSS
-
-⚙️ Backend
-
-Laravel
-
-Node.js
-
-REST APIs
-
-🗄️ Database
-
-MySQL
-
-PostgreSQL
-
-🔐 Auth & Integrations
-
-Firebase OTP
-
-JWT Authentication
-
-🛠️ Tools & DevOps
-
-Git & GitHub
-
-Docker
-
-Postman
-
-CI/CD Pipelines
-
-📌 What I’ve Worked On
-
-🛒 Multi-tenant ecommerce platforms
-
-🧾 GST billing & invoicing systems
-
-📱 Production-ready Flutter apps
-
-🌐 Admin dashboards & business portals
-
-🔄 API integrations & system automation
-
-🔗 Connect With Me
-
-LinkedIn:
-👉 https://www.linkedin.com/in/prathiksh-ap-524475272/
+Multi-tenant business applications
