@@ -1,5 +1,6 @@
 # 💫 About Me:
-prathiksh-11/README.md<br>Hi, I’m Prathiksha AP<br><br>Full-stack developer with 2+ years of experience in Flutter (Android & iOS), React, Next.js, Node.js, and Laravel.<br>Experienced in building mobile apps, web applications, REST APIs, GST billing, and multi-tenant systems.<br><br>Tech: Flutter | React | Next.js | Node.js | Laravel<br>MySQL | PostgreSQL | Firebase OTP | JWT<br><br>Work: • Flutter mobile apps (Android & iOS)<br>• Web apps using React & Next.js<br>• Backend APIs with Laravel & Node.js<br>• GST billing & invoicing systems
+Full-stack developer with 2+ years of experience in Flutter (Android & iOS), React, Next.js, Node.js, and Laravel.
+Experienced in building mobile apps, web applications, REST APIs, and multi-tenant systems.
 
 
 # 💻 Tech Stack:
